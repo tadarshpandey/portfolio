@@ -43,7 +43,7 @@ const Projects = () => {
       description: "A property listing website with admin features and search.",
       tech: "Django, HTML/CSS, MySQL",
       github: "https://github.com/tadarshpandey/project_shre",
-      //demo: "#", // add live demo link if available
+      demo: "https://project-shre.onrender.com", // add live demo link if available
     },
   ];
 
