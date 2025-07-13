@@ -1,5 +1,6 @@
 // src/pages/Skills.js
 import React from 'react';
+import TechTimeline from './TechTimeline';
 
 // Skills page showing categorized tech stack
 const Skills = () => {
@@ -37,7 +38,19 @@ const Skills = () => {
           <li>PostgreSQL</li>
         </ul>
       </div>
+
+       <>{/*<div className="w-full h-1 bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 my-10 rounded-full shadow-md" />
+      <hr className="border-t border-red-400" /> */}
+      <hr className="w-full h-1 rounded-full shadow-md border-t border-yellow-400 mt-12 mb-4" />
+
+
+        <div>
+          <TechTimeline />
+        </div></>  
+
+
     </section>
+    
   );
 };
 
