@@ -35,6 +35,7 @@ const Home = () => {
           Resume
         </a>
       </div>
+      
     </section>
   );
 };

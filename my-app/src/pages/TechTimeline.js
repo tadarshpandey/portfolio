@@ -1,31 +1,26 @@
 // src/components/TechTimeline.js
 import React from 'react';
 
-const techTimeline = [
+const techTimeline = [  
   {
-    year: "2021",
-    stack: "HTML, CSS, JS",
-    desc: "Started web development basics"
-  },
-  {
-    year: "2022",
-    stack: "Python, Django",
-    desc: "Built backend skills and first web app"
-  },
-  {
-    year: "2023",
-    stack: "React, REST APIs",
-    desc: "Shifted to modern frontend + integration"
+    year: "2025",
+    stack: "Django(python), Django rest framework, react, postgresql",
+    desc: "Built full-stack apps & API connections, and a project which have these all implementaions i.e., notes-summarizer-portal, as you can go through projects section."
   },
   {
     year: "2024",
-    stack: "MySQL, MongoDB, Node.js",
-    desc: "Built full-stack apps & API connections"
+    stack: "Java, .Net",
+    desc: "Again learned java and solved many programing question with it and also same for dotnet-but these two aren't my main skills in which I work."
   },
   {
-    year: "2025",
-    stack: "AI APIs, HuggingFace",
-    desc: "Integrated smart AI summarizers in projects"
+    year: "2023",
+    stack: "Python, SQL(MySQL)",
+    desc: "Built small real world projects and backend skills with python language. Learned about Structural Query Language for further database implementation in my projects."
+  },
+  {
+    year: "2022",
+    stack: "C Programming Language",
+    desc: "Started with basics, learns how to solve problems through coding-A backbone of Software. Started with basic logics and operations."
   }
 ];
 
