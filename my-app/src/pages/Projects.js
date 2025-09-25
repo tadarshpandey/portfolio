@@ -25,25 +25,26 @@ const ProjectCard = ({ title, description, tech, github, demo }) => (
 const Projects = () => {
   const projects = [
     {
-      title: "AI Notes Summarizer",
-      description: "A web app that summarizes academic notes using AI-backed APIs.",
-      tech: "Django, React, PostgreSQL",
-      github: "https://github.com/tadarshpandey/ai_notes_portal",
-      demo: "https://ai-notes-frontend.onrender.com/",
-    },
-    {
       title: "Chatbot Web App",
-      description: "An open-source chatbot redeployed using Streamlit.",
+      description: "About: Developed a web-based chatbot using Python and Streamlit, enabling real-time user interaction through a clean conversational interface. Role: Designed the chat flow, implemented backend logic for response generation, managed deployment, and maintained the GitHub codebase. Outcomes: Delivered a live, fully functional chatbot showcasing skills in Python, Streamlit, andconversational AI integration; improved usability with input handling and scalable deployment.",
       tech: "Python, Streamlit",
       github: "https://github.com/tadarshpandey/chatbot",
       demo: "https://adarshpandeyind-chatbot.streamlit.app/",
     },
     {
+      title: "AI Notes Summarizer",
+      description: "About: Built a web app for users to input large texts or upload documents, then generate concise summaries via AI (Hugging Face), with frontend-backend architecture (React + Django). Role: Developed features including user authentication, note CRUD (create/read/update/delete), file upload, search & filtering, and integration of summarization models. Outcomes: Users can save, edit, delete, export summarized notes, support dark mode, responsive UI, and manage notes securely.",
+      tech: "Django, React, PostgreSQL",
+      github: "https://github.com/tadarshpandey/ai_notes_portal",
+      //demo: "", // add live demo link if available
+    },
+    
+    {
       title: "Real Estate Website",
       description: "A property listing website with admin features and search.",
       tech: "Django, HTML/CSS, MySQL",
       github: "https://github.com/tadarshpandey/project_shre",
-      demo: "https://project-shre.onrender.com", // add live demo link if available
+      //demo: "", // add live demo link if available
     },
   ];
 
