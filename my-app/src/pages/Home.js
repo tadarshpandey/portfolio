@@ -36,7 +36,7 @@ const Home = () => {
           LinkedIn
         </a>
         <a
-          href="/resume.pdf"
+          href="/Adarsh_Pandey_Resume.pdf"
           download
           className="bg-white text-green-700 px-6 py-2 rounded shadow hover:bg-gray-200"
         >
