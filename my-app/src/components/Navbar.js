@@ -8,7 +8,7 @@ const Navbar = () => {
   return (
     <nav className="bg-white dark:bg-gray-800 shadow p-4 fixed w-full z-50">
       <div className="container mx-auto flex justify-between items-center">
-        <h1 className="text-xl font-bold text-gray-900 dark:text-white">Adarsh Portfolio</h1>
+        <h1 className="text-xl font-bold text-gray-900 dark:text-white">Adarsh Pandey's Portfolio</h1>
 
         {/* Hamburger Icon (Visible on Mobile) */}
         <div className="md:hidden">

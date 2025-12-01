@@ -8,7 +8,7 @@ const Home = () => {
       {/* Profile Image */}
       <div className="mb-6">
         <img
-          src="/profile-image.jpg"
+          src="/logo.jpg"
           alt="Adarsh Pandey"
           className="w-32 h-32 md:w-40 md:h-40 rounded-full border-4 border-white shadow-lg object-cover"
         />
@@ -36,7 +36,7 @@ const Home = () => {
           LinkedIn
         </a>
         <a
-          href="/adarsh_pandey_resume.pdf"
+          href="/Adarsh_Pandey_Resume.pdf"
           download
           className="bg-white text-green-700 px-6 py-2 rounded shadow hover:bg-gray-200"
         >

@@ -24,13 +24,13 @@ const ProjectCard = ({ title, description, tech, github, demo }) => (
 // Main Projects page
 const Projects = () => {
   const projects = [
-    {
-      title: "Chatbot Web App",
-      description: "About: Developed a web-based chatbot using Python and Streamlit, enabling real-time user interaction through a clean conversational interface. Role: Designed the chat flow, implemented backend logic for response generation, managed deployment, and maintained the GitHub codebase. Outcomes: Delivered a live, fully functional chatbot showcasing skills in Python, Streamlit, andconversational AI integration; improved usability with input handling and scalable deployment.",
-      tech: "Python, Streamlit",
-      github: "https://github.com/tadarshpandey/chatbot",
-      demo: "https://adarshpandeyind-chatbot.streamlit.app/",
-    },
+    // {
+    //   title: "Chatbot Web App",
+    //   description: "About: Developed a web-based chatbot using Python and Streamlit, enabling real-time user interaction through a clean conversational interface. Role: Designed the chat flow, implemented backend logic for response generation, managed deployment, and maintained the GitHub codebase. Outcomes: Delivered a live, fully functional chatbot showcasing skills in Python, Streamlit, andconversational AI integration; improved usability with input handling and scalable deployment.",
+    //   tech: "Python, Streamlit",
+    //   github: "https://github.com/tadarshpandey/chatbot",
+    //   demo: "https://adarshpandeyind-chatbot.streamlit.app/",
+    // },
     {
       title: "AI Notes Summarizer",
       description: "About: Built a web app for users to input large texts or upload documents, then generate concise summaries via AI (Hugging Face), with frontend-backend architecture (React + Django). Role: Developed features including user authentication, note CRUD (create/read/update/delete), file upload, search & filtering, and integration of summarization models. Outcomes: Users can save, edit, delete, export summarized notes, support dark mode, responsive UI, and manage notes securely.",
