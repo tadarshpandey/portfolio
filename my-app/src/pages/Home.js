@@ -37,7 +37,7 @@ const Home = () => {
         </a>
         <a
           href="/Adarsh_Pandey_Resume.pdf"
-          download="/Adarsh_Pandey_Resume.pdf"
+          download="Adarsh_Pandey_Resume.pdf"
           className="bg-white text-green-700 px-6 py-2 rounded shadow hover:bg-gray-200"
         >
           Resume
