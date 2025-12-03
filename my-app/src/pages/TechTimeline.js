@@ -9,18 +9,18 @@ const techTimeline = [
   },
   {
     year: "2024",
-    stack: "Java, .Net",
-    desc: "Again learned java and solved many programing question with it and also same for dotnet-but these two aren't my main skills in which I work."
+    stack: "Final Year Project(BCA)",
+    desc: "In this year I made my final year graduation project in computer application course. Till I have two projects that are: Real estate website and another is notes summarizers website."
   },
   {
     year: "2023",
-    stack: "Python, SQL(MySQL)",
-    desc: "Built small real world projects and backend skills with python language. Learned about Structural Query Language for further database implementation in my projects."
+    stack: "SQL(MySQL), Programming Concept",
+    desc: "Learned about Structural Query Language for further database implementation in my projects. And understands basic knowledge of how does programming goes to be in real world using basic C-programming concepts like loops, conditions, functions, arrays, pointers etc."
   },
   {
     year: "2022",
-    stack: "C Programming Language",
-    desc: "Started with basics, learns how to solve problems through coding-A backbone of Software. Started with basic logics and operations."
+    stack: "Start of Tech Career",
+    desc: "Started with basics, learns how to solve problems through coding-A backbone of Software. Started with basic logics and operations. First of all I satrted with C-programming to code and develop basic logics and then further moved to web-development."
   }
 ];
 
