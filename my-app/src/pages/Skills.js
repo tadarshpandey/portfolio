@@ -24,8 +24,9 @@ const Skills = () => {
         <h3 className="text-2xl font-semibold mb-2">Frameworks / Tools</h3>
         <ul className="list-disc list-inside space-y-1">
           <li>Django</li>
+          <li>React</li>
           <li>Streamlit</li>
-          <li>Git</li>
+          <li>Git/GitHub</li>
           <li>VS Code</li>
         </ul>
       </div>
