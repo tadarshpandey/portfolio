@@ -41,7 +41,7 @@ const About = () => {
         <h3 className="text-2xl font-semibold mb-2">Education</h3>
         <ul className="list-disc list-inside space-y-2">
           <li><strong>M.C.A</strong>, BBS College of Engineering & Technology, Prayagraj (2025 – 2027) – pursuing</li>
-          <li><strong>B.C.A</strong>, Shambhunath College of Education, Prayagraj (2022 – 2025) – 77.04%</li>
+          <li><strong>B.C.A</strong>, Shambhunath College of Education, Prayagraj (2022 – 2025) – 77.52%</li>
           <li><strong>12th (PCM)</strong>, Urmila Devi Inter College (2022) – 66.4%</li>
           <li><strong>10th (Science)</strong>, Dawn The Higher Secondary School (2020) – 66.6%</li>
         </ul>
