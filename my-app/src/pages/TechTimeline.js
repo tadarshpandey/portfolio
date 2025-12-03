@@ -19,7 +19,7 @@ const techTimeline = [
   },
   {
     year: "2022",
-    stack: "Start of Tech Career",
+    stack: "Start of My Tech Career",
     desc: "Started with basics, learns how to solve problems through coding-A backbone of Software. Started with basic logics and operations. First of all I satrted with C-programming to code and develop basic logics and then further moved to web-development."
   }
 ];
