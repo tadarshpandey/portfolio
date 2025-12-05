@@ -46,8 +46,10 @@ const Projects = () => {
     //   github: "https://github.com/tadarshpandey/project_shre",
     //   //demo: "", // add live demo link if available
     // },
-    <p>For now building real world projects and would be mention SOON. Keep in touch. Thanks for visiting.</p>
+    
   ];
+
+  <p>For now building real world projects and would be mention SOON. Keep in touch. Thanks for visiting.</p>
 
   return (
     <section className="p-8 max-w-4xl mx-auto">
