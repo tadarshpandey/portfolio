@@ -49,7 +49,7 @@ const Projects = () => {
     
   ];
 
-  <p>For now building real world projects and would be mention SOON. Keep in touch. Thanks for visiting.</p>
+  
 
   return (
     <section className="p-8 max-w-4xl mx-auto">
@@ -58,6 +58,7 @@ const Projects = () => {
         {projects.map((project, index) => (
           <ProjectCard key={index} {...project} />
         ))}
+        <p>For now building real world projects and would be mention SOON. Keep in touch. Thanks for visiting.</p>
       </div>
     </section>
   );
