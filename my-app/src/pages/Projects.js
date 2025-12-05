@@ -31,21 +31,22 @@ const Projects = () => {
     //   github: "https://github.com/tadarshpandey/chatbot",
     //   demo: "https://adarshpandeyind-chatbot.streamlit.app/",
     // },
-    {
-      title: "AI Notes Summarizer",
-      description: "About: Built a web app for users to input large texts or upload documents, then generate concise summaries via AI (Hugging Face), with frontend-backend architecture (React + Django). Role: Developed features including user authentication, note CRUD (create/read/update/delete), file upload, search & filtering, and integration of summarization models. Outcomes: Users can save, edit, delete, export summarized notes, support dark mode, responsive UI, and manage notes securely.",
-      tech: "Django, React, PostgreSQL",
-      github: "https://github.com/tadarshpandey/ai_notes_portal",
-      //demo: "", // add live demo link if available
-    },
+    // {
+    //   title: "AI Notes Summarizer",
+    //   description: "About: Built a web app for users to input large texts or upload documents, then generate concise summaries via AI (Hugging Face), with frontend-backend architecture (React + Django). Role: Developed features including user authentication, note CRUD (create/read/update/delete), file upload, search & filtering, and integration of summarization models. Outcomes: Users can save, edit, delete, export summarized notes, support dark mode, responsive UI, and manage notes securely.",
+    //   tech: "Django, React, PostgreSQL",
+    //   github: "https://github.com/tadarshpandey/ai_notes_portal",
+    //   //demo: "", // add live demo link if available
+    // },
     
-    {
-      title: "Real Estate Website",
-      description: "A property listing website with admin features and search.",
-      tech: "Django, HTML/CSS, MySQL",
-      github: "https://github.com/tadarshpandey/project_shre",
-      //demo: "", // add live demo link if available
-    },
+    // {
+    //   title: "Real Estate Website",
+    //   description: "A property listing website with admin features and search.",
+    //   tech: "Django, HTML/CSS, MySQL",
+    //   github: "https://github.com/tadarshpandey/project_shre",
+    //   //demo: "", // add live demo link if available
+    // },
+    <p>For now building real world projects and would be mention SOON. Keep in touch. Thanks for visiting.</p>
   ];
 
   return (

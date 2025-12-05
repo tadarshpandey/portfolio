@@ -12,10 +12,10 @@ const Skills = () => {
       <div className="mb-6">
         <h3 className="text-2xl font-semibold mb-2">Languages</h3>
         <ul className="list-disc list-inside space-y-1">
-          <li>Python</li>
+          <li>Python(Basic)</li>
           <li>HTML</li>
           <li>CSS</li>
-          <li>JavaScript (Basic)</li>
+          <li>C Programming</li>
         </ul>
       </div>
 
@@ -23,10 +23,9 @@ const Skills = () => {
       <div className="mb-6">
         <h3 className="text-2xl font-semibold mb-2">Frameworks / Tools</h3>
         <ul className="list-disc list-inside space-y-1">
-          <li>Django</li>
-          <li>React</li>
-          <li>Streamlit</li>
-          <li>Git/GitHub</li>
+          <li>Django(Basic)</li>
+          
+          <li>Git/GitHub(Basic)</li>
           <li>VS Code</li>
         </ul>
       </div>
@@ -36,7 +35,7 @@ const Skills = () => {
         <h3 className="text-2xl font-semibold mb-2">Databases</h3>
         <ul className="list-disc list-inside space-y-1">
           <li>MySQL</li>
-          <li>PostgreSQL</li>
+          
         </ul>
       </div>
 

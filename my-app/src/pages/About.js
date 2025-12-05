@@ -9,31 +9,7 @@ const About = () => {
 
       {/* Bio */}
       <p className="text-lg mb-6">
-        I’m a Backend Developer passionate about building scalable, AI-powered web applications. With hands-on experience in Python, Django, MySQL, PostgreSQL, and React integration, I enjoy transforming ideas into functional and user-friendly solutions.
-
-        💡 I’ve developed projects like:
-
-        AI Notes Summarizer → An intelligent app where users can upload text or files, then generate concise AI-powered summaries with full CRUD functionality, authentication, file uploads, and export features.
-
-        Real Estate Platform → A property listing website built with Django + MySQL, featuring authentication, APIs, and a smooth team-based development experience.
-
-        🎯 What I bring to the table:
-
-        Strong problem-solving and debugging skills
-
-        Experience in REST APIs, authentication systems, and database design
-
-        Ability to work in team environments while contributing innovative solutions
-
-        Interest in AI, modern web technologies, and full-stack collaboration
-
-        📚 Currently pursuing MCA from Dr. A.P.J. Abdul Kalam Technical University, after completing BCA with distinction.
-
-        ✨ Beyond coding, I enjoy exploring new technologies, organizing events, and keeping up with innovations in AI and web development.
-
-        Let’s connect if you’re interested in backend development, AI integration, or building scalable web platforms!
-
-        💻 Backend Developer | Python & Django | AI-Powered Web Apps | MySQL & PostgreSQL | MCA Student @ AKTU
+        I’m a Backend Developer. Code in Python programming language. Knows basic SQL.
       </p>
 
       {/* Education */}

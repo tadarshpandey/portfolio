@@ -4,13 +4,13 @@ import React from 'react';
 const techTimeline = [  
   {
     year: "2025",
-    stack: "Django(python), Django rest framework, react, postgresql",
-    desc: "Built full-stack apps & API connections, and a project which have these all implementaions i.e., notes-summarizer-portal, as you can go through projects section."
+    stack: "Learning more than just basics in Python programming & SQL",
+    desc: "Learning advanced concepts in Python programming language including OOPs, File handling, Exception handling, Modules and Libraries. Also learning advanced SQL concepts for better database management and operations."
   },
   {
     year: "2024",
     stack: "Final Year Project(BCA)",
-    desc: "In this year I made my final year graduation project in computer application course. Till I have two projects that are: Real estate website and another is notes summarizers website."
+    desc: "In this year I made my final year graduation project in computer application course."
   },
   {
     year: "2023",
